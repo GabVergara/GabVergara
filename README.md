@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabvergara&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabvergara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabvergara&show_icons=true&theme=dark&locale=en" alt="gabvergara" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabvergara&show_icons=true&theme=dark&locale=en" alt="gabvergara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabvergara&theme=dark" alt="gabvergara" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gabvergara&theme=dark" alt="gabvergara" /></p>
